@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site personnel de Julien Blasco"
+title                    : "Julien Blasco's personal website"
 title_separator          : "-"
 name                     : &name "Julien Blasco"
-description              : &description "Site personnel de Julien Blasco"
+description              : &description "Julien Blasco's personal website"
 url                      : https://julienblasco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "julienblasco.github.io"
