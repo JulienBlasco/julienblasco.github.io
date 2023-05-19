@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcom to Julien Blasco's personal website. More to come soon.
+Welcome to Julien Blasco's personal website. More to come soon.
