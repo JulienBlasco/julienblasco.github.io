@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here](/files/CV_Academic_Julien_Blasco_oct_2021.pdf) for my CV in English.
-
-Cliquez ici pour mon CV en Français.
+I am online:
+- E-mail: `julien.blasco@mailbox.org` ([PGP key](/files/id_rsa_pub_blasco.txt))
+- Linkedin: <https://www.linkedin.com/in/julien-blasco/>
+- Twitter: <https://twitter.com/julienblasco>
+- GitHub: <https://github.com/julienblasco>
