@@ -104,7 +104,11 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
+    if item.venue == "inprogress":
+    	with open("../_inprogress/" + md_filename, 'w') as f:
+    	    f.write(md)
+    else:
+        with open("../_publications/" + md_filename, 'w') as f:
+            f.write(md)
 
 
