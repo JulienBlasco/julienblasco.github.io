@@ -2,6 +2,9 @@
 title: "Wavelength"
 excerpt: "A webapp to play Wavelength<br/><img src='/images/wavelength.png'>"
 collection: portfolio
+tags:
+  - R
+  - R Shiny
 ---
 
 [![An instance of the Wavelength game](/images/wavelength.png)](https://julienblasco.shinyapps.io/wavelength/)

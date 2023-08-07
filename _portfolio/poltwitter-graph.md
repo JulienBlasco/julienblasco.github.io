@@ -2,6 +2,11 @@
 title: "Poltwitter graph"
 excerpt: "A dashboard to visualize the French 2016 political Twitter<br/><img src='/images/poltwitter-graph.png'>"
 collection: portfolio
+tags:
+  - Python
+  - Flask
+  - Twitter
+  - Graph Clustering
 ---
 
 [![The clusters of Twitter French politics](/images/poltwitter-graph.png)](https://julienblasco.pythonanywhere.com)
