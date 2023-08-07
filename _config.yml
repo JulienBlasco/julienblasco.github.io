@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julien Blasco's personal website"
+title                    : "Julien Blasco"
 title_separator          : "-"
 name                     : &name "Julien Blasco"
 description              : &description "Julien Blasco's personal website"
