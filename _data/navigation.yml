@@ -17,6 +17,11 @@ main:
     
   - title: "CV"
     url: /cv/
+    children:
+      - title: "CV in English"
+        url: /cv-english/
+      - title: "CV in French"
+        url: /cv-french/
 
   - title: "Contact"
     url: /contact/
