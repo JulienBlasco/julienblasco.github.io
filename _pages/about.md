@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a statistician at [Dares - Ministère du Travail](https://dares.travail-emploi.gouv.fr/), an affiliate researcher at [LIEPP - Sciences Po](https://www.sciencespo.fr/liepp) and a PhD candidate in Economics at [THEMA - Cergy Paris Université](https://thema.u-cergy.fr).
+I am a statistician at [Dares - Ministère du Travail](https://dares.travail-emploi.gouv.fr/) and an affiliate researcher at [LIEPP - Sciences Po](https://www.sciencespo.fr/liepp).
 
 My [research](/research) mainly focuses on the measurement of economic inequality and poverty, socio-fiscal redistribution and active labor market policies.
 
