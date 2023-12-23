@@ -10,11 +10,15 @@ author_profile: true
 
 ## Work in progress
 
-**Measuring extreme poverty in developed countries: A cumulative indicator of income and material deprivations.**  
-(manuscript available on request)
+**[Measuring deep poverty in developed countries: A cumulative indicator of income and material deprivations](https://sciencespo.hal.science/hal-04342540)**, *LIEPP Working Paper*, 2023.
+
 
 **Determinants of the evolution of income inequality: Semi-parametric decomposition in France, 1970-2019**,  
 with Clément Carbonnier. (manuscript available on request)
+
+**[Mortalité, incapacité et retraite par catégorie socio-professionnelle](https://hal.science/hal-04030089)**,  
+with Ulysse Lojkine.
+
 
 ## Peer-reviewed publications
 
@@ -32,6 +36,9 @@ Downloads:
 with François Gleizes, *France in the European Union*, coll. Insee Références, 2019.
 
 ## Other published work (in French)
+
+**[Les emplois francs incitent-ils à embaucher des personnes résidant dans un quartier prioritaire de la politique de la ville ?](https://dares.travail-emploi.gouv.fr/publication/les-emplois-francs-incitent-ils-embaucher-des-personnes-residant-dans-un-quartier)**,  
+with Claire-Lise Dubost and Chloé Maisonnave, *DARES Analyses*, 2023.
 
 **[Définitions et mesures de la pauvreté](https://hal-sciencespo.archives-ouvertes.fr/hal-03781819)**,  
 with Clément Carbonnier, Muriel Pucci Porte, Xavier Godinot and Henri Martin, *Débats du LIEPP*, 2022.
