@@ -37,6 +37,9 @@ with François Gleizes, *France in the European Union*, coll. Insee Références
 
 ## Other published work (in French)
 
+**[Quelle situation professionnelle après un parcours en insertion par l'activité économique ?](https://www.dares.travail-emploi.gouv.fr/publication/quelle-situation-professionnelle-apres-un-parcours-en-insertion-par-lactivite)**,  
+*DARES Analyses*, 2024.
+
 **[Les emplois francs incitent-ils à embaucher des personnes résidant dans un quartier prioritaire de la politique de la ville ?](https://dares.travail-emploi.gouv.fr/publication/les-emplois-francs-incitent-ils-embaucher-des-personnes-residant-dans-un-quartier)**,  
 with Claire-Lise Dubost and Chloé Maisonnave, *DARES Analyses*, 2023.
 
