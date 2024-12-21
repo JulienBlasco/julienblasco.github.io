@@ -13,8 +13,8 @@ author_profile: true
 **[Measuring deep poverty in developed countries: A cumulative indicator of income and material deprivations](https://sciencespo.hal.science/hal-04342540)**, *LIEPP Working Paper*, 2023.
 
 
-**Determinants of the evolution of income inequality: Semi-parametric decomposition in France, 1970-2019**,  
-with Clément Carbonnier. (manuscript available on request)
+**[Determinants of the evolution of income inequality: Semi-parametric decomposition in France, 1970-2019](https://sciencespo.hal.science/hal-04828965v2)**,
+with Clément Carbonnier, *LIEPP Working Paper*.
 
 **[Mortalité, incapacité et retraite par catégorie socio-professionnelle](https://hal.science/hal-04030089)**,  
 with Ulysse Lojkine.
