@@ -14,7 +14,7 @@ author_profile: true
 
 
 **[Determinants of the evolution of income inequality: Semi-parametric decomposition in France, 1970-2019](https://sciencespo.hal.science/hal-04828965v2)**,
-with Clément Carbonnier, *LIEPP Working Paper*.
+with Clément Carbonnier, *LIEPP Working Paper*, 2024.
 
 **[Mortalité, incapacité et retraite par catégorie socio-professionnelle](https://hal.science/hal-04030089)**,  
 with Ulysse Lojkine.
