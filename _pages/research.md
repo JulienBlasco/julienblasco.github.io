@@ -36,6 +36,7 @@ Downloads:
 **[Who is Poor in Europe? Two Different Illustrations of Poverty, Using the Monetary Approach or the Material and Social Deprivation Approach](https://www.insee.fr/en/statistiques/4124923?sommaire=4124951)**,  
 with François Gleizes, *France in the European Union*, coll. Insee Références, 2019.
 
+
 ## Other published work (in French)
 
 **[Quelle situation professionnelle après un parcours en insertion par l'activité économique ?](https://www.dares.travail-emploi.gouv.fr/publication/quelle-situation-professionnelle-apres-un-parcours-en-insertion-par-lactivite)**,  
@@ -59,3 +60,7 @@ with Sébastien Picard, *France, portrait social*, coll. Insee Références, 201
 **[Qui est pauvre en Europe ? Deux figures différentes de la pauvreté, par l’approche monétaire ou par la privation matérielle et sociale](https://www.insee.fr/fr/statistiques/3902325?sommaire=3902446)**,  
 with François Gleizes, *La France dans l’Union européenne*, coll. Insee Références, 2019.
 
+
+## Reviewing activity
+
+Reviewer for: *Political Studies Review*, *Retraite et société*, *Revue d'économie politique*, *Socio-Economic Review*, *Travail et emploi*.
