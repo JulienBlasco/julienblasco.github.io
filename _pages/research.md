@@ -14,14 +14,15 @@ author_profile: true
 *LIEPP Working Paper*, 2023.
 
 
-**[Determinants of the evolution of income inequality: Semi-parametric decomposition in France, 1970-2019](https://sciencespo.hal.science/hal-04828965v2)**,  
-with Clément Carbonnier, *LIEPP Working Paper*, 2024.
-
 **[Mortalité, incapacité et retraite par catégorie socio-professionnelle](https://hal.science/hal-04030089)**,  
 with Ulysse Lojkine.
 
 
 ## Peer-reviewed publications
+
+**[Determinants of the Evolution of Income Inequality in France, 1970–2019](https://onlinelibrary.wiley.com/doi/10.1111/roiw.70037)**,  
+with Clément Carbonnier, *Review of Income and Wealth*, 2025.  
+Downloads: [Working Paper version](https://sciencespo.hal.science/hal-04828965v2).
 
 **[The inequality impact of consumption taxes: An international comparison](https://doi.org/10.1016/j.jpubeco.2023.104897)**,  
 with Elvire Guillaud and Michaël Zemmour, *Journal of Public Economics*, 2023.  
