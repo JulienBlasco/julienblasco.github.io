@@ -13,6 +13,6 @@ I am a statistician at [Drees - Ministère de la Santé et des Solidarités](htt
 My [research](/research) mainly focuses on the measurement of economic inequality and poverty, socio-fiscal redistribution and active labor market policies.
 
 🎉✨ **New paper alert:**  
-**My paper with Clément Carbonnier on the [Determinants of the Evolution of Income Inequality in France, 1970-2019](https://onlinelibrary.wiley.com/doi/10.1111/roiw.70037) is now out in the Review of Income and Wealth.**
+**My paper with Ulysse Lojkine on the [Inequalities in Expected Retirement Duration and Expected Disability‑Free Retirement Duration](https://doi.org/10.24187/ecostat.2025.549.2142) is now out in Economie et Statistique / Economics and Statistics.**
 
 [Click here](/files/CV_EN_Julien_Blasco_jan_2021.pdf) for the English version of my CV, [cliquez ici](/files/CV_FR_Julien_Blasco_dec_2023.pdf) pour la version française.
