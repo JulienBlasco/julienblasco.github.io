@@ -14,11 +14,11 @@ author_profile: true
 *LIEPP Working Paper*, 2023.
 
 
-**[Mortalité, incapacité et retraite par catégorie socio-professionnelle](https://hal.science/hal-04030089)**,  
-with Ulysse Lojkine.
-
-
 ## Peer-reviewed publications
+
+**[Inequalities in Expected Retirement Duration and Expected Disability‑Free Retirement Duration](https://doi.org/10.24187/ecostat.2025.549.2142)**,  
+with Ulysse Lojkine, *Economie et Statistique / Economics and Statistics*, 2026.  
+Downloads: [Code](https://github.com/ULojkine/ERSI).
 
 **[Determinants of the Evolution of Income Inequality in France, 1970–2019](https://onlinelibrary.wiley.com/doi/10.1111/roiw.70037)**,  
 with Clément Carbonnier, *Review of Income and Wealth*, 2025.  
