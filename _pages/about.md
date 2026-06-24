@@ -15,4 +15,4 @@ My [research](/research) mainly focuses on the measurement of economic inequalit
 🎉✨ **New paper alert:**  
 **My paper with Ulysse Lojkine on the [Inequalities in Expected Retirement Duration and Expected Disability‑Free Retirement Duration](https://doi.org/10.24187/ecostat.2025.549.2142) is now out in Economie et Statistique / Economics and Statistics.**
 
-[Click here](/files/CV_EN_Julien_Blasco_jan_2021.pdf) for the English version of my CV, [cliquez ici](/files/CV_FR_Julien_BLASCO_202606.pdf) pour la version française.
+[Click here](/files/CV_FR_Julien_BLASCO_202606.pdf) for my CV (in French).
