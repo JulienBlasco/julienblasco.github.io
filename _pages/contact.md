@@ -11,6 +11,6 @@ redirect_from:
 
 I am online:
 - E-mail: <kbd>julien.blasco@mailbox.org</kbd> ([PGP key](/files/id_rsa_pub_blasco.txt))
-- Twitter: <https://twitter.com/julienblasco>
+- Bluesky: <https://bsky.app/profile/julienblasco.fr>
 - Linkedin: <https://www.linkedin.com/in/julien-blasco>
 - GitHub: <https://github.com/julienblasco>
