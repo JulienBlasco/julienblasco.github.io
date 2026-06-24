@@ -16,12 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    children:
-      - title: "CV in English"
-        url: /cv-english/
-      - title: "CV in French"
-        url: /cv-french/
+    url: /files/CV_FR_Julien_BLASCO_202606.pdf
 
   - title: "Contact"
     url: /contact/
